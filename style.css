@@ -1,0 +1,43 @@
+img{
+  border-radius:50%;
+  height:200px
+  width:100px;
+}
+#welcome{
+  
+   background-image: linear-gradient(red, yellow);
+    font-family: "Redressed", cursive;
+    font-size: 30px
+}
+body{
+  text-align:center;
+  background-color:white;
+}
+#maintext{
+   background-image: linear-gradient(cyan, purple);
+    font-family: "Pirata One";
+    font-size: 30px;
+}
+h1{
+  font-variant:small-caps;
+}
+.line{
+  height:6px;
+  width:450px;
+  background-color:black;
+  margin:8px auto;
+    
+}
+.menu{
+    list-style:none;
+  position:fixed;
+  top:10px;
+  right:30px;
+    cursor:pointer;
+    font-family: cursive;
+    float:left;
+}
+p{
+    font-family: "Pirata One";
+    background-image: linear-gradient(lime, forestgreen);
+}
